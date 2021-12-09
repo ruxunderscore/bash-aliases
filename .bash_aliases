@@ -31,7 +31,7 @@ fi
 
 # Uncomment to set alias for cat to bat, for use of bat
 if hash bat 2>/dev/null || hash batcat 2>/dev/null; then
-    echo "Debug: bat or batcat present"
+    # echo "Debug: bat or batcat present"
     if hash bat 2>/dev/null; then
         alias cat='bat'
         # echo "Debug: setting alias cat to run bat"
