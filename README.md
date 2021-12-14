@@ -14,3 +14,6 @@ The file will set the following aliases:\
 
 ## Compatibility
 I have tested this in `ZSH` and `BASH`. This file can be loaded into `ZSH` or `BASH` with no changes. 
+
+## Suggestions
+If you have any other ideas for aliases, or recommendations, let me know, and I can add it. 
