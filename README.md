@@ -12,14 +12,14 @@ The file will set the following aliases:\
 `cat` - If `bat` exists on the file in the form of `batcat` or `bat`, `cat` will use `bat` instead. (Disabled, by default)\
 `nano` - Adds line numbers to `nano` by default (`nano --linenumbers`).\
 \
-I disable the `cat` to `bat` alias, by default, as there are times when you may not want the line numbers that bat adds by default. 
+The `cat` to `bat` alias is disabled, by default, as there are times when you may not want the line numbers that bat adds by default. 
 
 ## Compatibility
-I have tested this in `ZSH` and `BASH`. This file can be loaded into `ZSH` or `BASH` with no changes. 
+This aliasing script has been tested in `ZSH` and `BASH`. This file can be loaded into `ZSH` or `BASH` with no changes. 
 
 ## Information
 `exa` is an alternative to the ls command with a more modern approach. More information about it can be found [here](https://github.com/ogham/exa).\
 `bat` is an alternative to cat that provides line numbers and syntax highlighting. More information about it can be found [here](https://github.com/sharkdp/bat).
 
 ## Suggestions
-If you have any other ideas for aliases, or recommendations, let me know, and I can add it. 
+If you have any other ideas for aliases, or recommendations, feel free to discuss/recommend in the Discussions tab. 
