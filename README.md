@@ -15,5 +15,9 @@ The file will set the following aliases:\
 ## Compatibility
 I have tested this in `ZSH` and `BASH`. This file can be loaded into `ZSH` or `BASH` with no changes. 
 
+## Information
+`exa` is an alternative to the ls command with a more modern approach. More information about it can be found [here](https://github.com/ogham/exa).\
+`bat` is an alternative to cat that provides line numbers and syntax highlighting. More information about it can be found [here](https://github.com/sharkdp/bat).
+
 ## Suggestions
 If you have any other ideas for aliases, or recommendations, let me know, and I can add it. 
