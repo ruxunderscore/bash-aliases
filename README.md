@@ -12,7 +12,7 @@ The file will set the following aliases:\
 `cat` - If `bat` exists on the file in the form of `batcat` or `bat`, `cat` will use `bat` instead. (Disabled, by default)\
 `nano` - Adds line numbers to `nano` by default (`nano --linenumbers`).\
 \
-I disable the `cat` to `bat` alias as there are times when you may not want the line numbers that bat adds by default. 
+I disable the `cat` to `bat` alias, by default, as there are times when you may not want the line numbers that bat adds by default. 
 
 ## Compatibility
 I have tested this in `ZSH` and `BASH`. This file can be loaded into `ZSH` or `BASH` with no changes. 
